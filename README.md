@@ -6,26 +6,26 @@ A user-friendly **Personal Expense Tracker** application built with **Python (Tk
 
 ## 🔧 Features
 
-- ✅ **User Registration & Login**
+ ✅ **User Registration & Login**
   - Create an account using your name, email, and password
   - Email format validation using regex
   - Login to access your personal data
   - Forgot password support
 
-- 💼 **Income Tracking**
+ 💼 **Income Tracking**
   - Add or update your monthly income
   - Income is linked to the logged-in user
 
-- 🧾 **Expense Tracking**
+ 🧾 **Expense Tracking**
   - Add expenses with category, date, and amount
   - Update or delete past expenses
   - View all your expenses in a table format
 
-- 📊 **Visual Reports**
+ 📊 **Visual Reports**
   - View a **bar chart** of your monthly expenses
   - Generate a **pie chart** showing expense distribution by category
 
-- 📤 **Exporting Reports**
+ 📤 **Exporting Reports**
   - Export all your expenses to a **CSV file**
   - Generate a professional-looking **PDF report** of your expenses
 
